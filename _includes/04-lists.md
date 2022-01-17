@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Daniel
+2. Barnen
+3. hunden
+4. någon
