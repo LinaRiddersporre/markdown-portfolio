@@ -1,2 +1,1 @@
-[text] 
-(https://github.com/LinaRiddersporre)
+[länken](https://github.com/LinaRiddersporre)
